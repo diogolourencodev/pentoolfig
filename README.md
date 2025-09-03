@@ -19,7 +19,7 @@ dnsenum, dnsrecon, whois, theharvester, sublist3r, amass, metasploit-framework,
 hydra, john, hashcat, curl, wget, netcat-openbsd, tcpdump, zmap, masscan,
 enum4linux, smbclient, smbmap, ldap-utils, feroxbuster, sslscan, wfuzz,
 xsser, recon-ng, seclists, wordlists, wafw00f, subfinder, iptables, ghauri,
-uro, gf
+uro, gf, spyhunt
 ```
 
 ### 🧰 Go-based Tools
