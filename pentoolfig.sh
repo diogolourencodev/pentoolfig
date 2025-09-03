@@ -90,6 +90,12 @@ sudo pip install setuptools --break-system-packages
 sudo python3 setup.py install
 cd ~
 
+git clone https://github.com/gotr00t0day/spyhunt
+cd ~/Documents/Tools/spyhunt
+pip3 install -r requirements.txt
+sudo python3 install.py
+cd ~
+
 # Unzip rockyou wordlist if available
 echo "Unzipping rockyou.txt.gz..."
 sudo gzip -d /usr/share/wordlists/rockyou.txt.gz
